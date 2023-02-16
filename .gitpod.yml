@@ -1,0 +1,5 @@
+tasks:
+  - before: >
+      export DEMO="${DEMO:-Graph Analysis}" && cd "$DEMO" &&
+      echo "$SNOWFLAKE_CREDS" > ../creds.json && echo "$SNOWFLAKE_CREDS" > ./creds.json
+    command: ./gitpod-command.sh
