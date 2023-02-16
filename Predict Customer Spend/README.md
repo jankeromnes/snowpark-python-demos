@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#DEMO=Predict%20Customer%20Spend/https://github.com/jankeromnes/snowpark-python-demos)
+
 # Overview:
 This is an example of using Linear Regression model in Scikit-Learn, Snowpark and Python UDFs to predict customer spend. The training of the model happens locally while the scoring is done within Snowflake using the UDF created via Snowpark in the Jupyter Notebook. The sample data file is EcommerceCustomers. Model training is done on a test dataset while scoring is done on the entire dataset. 
 
