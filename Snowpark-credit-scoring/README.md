@@ -1,5 +1,7 @@
 # Snowpark Credit Scoring Example
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#DEMO=Snowpark-credit-scoring/https://github.com/jankeromnes/snowpark-python-demos)
+
 ## 1. Overview
 
 In this example, you will be able to use Snowpark for Python, along with your favorite python libraries for data analysis and visualization, as well as the popular scikit learn ML library to address an end to end machine learning use case.
